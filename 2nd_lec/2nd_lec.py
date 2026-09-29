@@ -94,7 +94,3 @@ while len(name) > 50 or len(name) < 3:
         name = input("Enter your name ")
 else:
      print(f"Nice to meet you {name}")
-
-
-
-

@@ -34,7 +34,7 @@ This file covers the following topics:
   - `math.fmod()`
   - `math.modf()`
 
-- Conditional statements:
+- Conditional statements: 
   - `if`
   - `elif`
   - `else`
