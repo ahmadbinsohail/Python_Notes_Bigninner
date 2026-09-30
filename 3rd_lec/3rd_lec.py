@@ -169,6 +169,3 @@ def emoji_convertor(m):
 message = input("Enter your Message ")
 output = emoji_convertor(message)
 print(output)
-
-
-
